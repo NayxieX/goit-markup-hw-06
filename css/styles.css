@@ -552,10 +552,6 @@ button {
 }
 
 @media screen and (min-width: 768px) {
-  .skills-container {
-    max-width: 552px;
-  }
-
   .skills-list {
     flex-direction: row;
     flex-wrap: wrap;
@@ -571,8 +567,7 @@ button {
 
 @media screen and (min-width: 1158px) {
   .section-skills {
-    padding-top: 120px;
-    padding-bottom: 12px;
+    padding: 120px 0;
   }
 
   .skills-list {
@@ -788,10 +783,6 @@ button {
 }
 
 @media screen and (min-width: 768px) {
-  .portfolio-container {
-    max-width: 552px;
-  }
-
   .portfolio-list {
     flex-direction: row;
     flex-wrap: wrap;
